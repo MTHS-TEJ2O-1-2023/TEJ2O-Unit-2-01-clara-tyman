@@ -2,7 +2,7 @@
  *
  * Created by: Clara Tyman
  * Created on: Sep 2023
- * This program prints 'Hello World!' on a microbit
+ * This program prints 'Hello Clara!' on a microbit
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Clara!')
